@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+table.login {
+	font: normal 14px Tahoma, Geneva, sans-serif;
+	color: #838383;
+}
+table.login h2 {
+	font: bold 14px Tahoma, Geneva, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+table.login input {
+	font: normal 13px Tahoma, Geneva, sans-serif;
+	color: #838383;
+	margin: 0px;
+	padding: 0px 5px;
+	border-left: solid 10px #f59c00;
+	height: 25px;
+	width: 160px;
+	border-style: solid;
+}
+table.login input[type="submit"] {
+	font: normal 13px Tahoma, Geneva, sans-serif;
+	color: #838383;
+	margin: 15px 0px 0px 0px;
+	border: solid 1px #CCC;
+	height: 30px;
+	width: 50px;
+}
